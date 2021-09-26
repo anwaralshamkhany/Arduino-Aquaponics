@@ -1,5 +1,6 @@
 # Arduino-Aquaponics
 This is a homemade, backyard friendly project that completely automates an aquaponics system from the fish feeder to the pump that cycles water. This a scable model designed to grow 10 Blue Strain Tilapia and a couple of plants in your backyard. Before we begin check government regulations for owning fish in your local area. The purpose of this project is to create a self-sustaining ecosystem in your backyard with live plants and fish that can be harvested. In this system I will be using Blue strain tilapia as they grow rapidly (from fingerling to adult in  and can survive cold environments. 
+<img width="282" alt="Blue Tilapia" src="https://user-images.githubusercontent.com/81518926/134826893-5649e56d-c411-4fbd-8405-54030dd40dd5.png">
 
 # Materials
 * Any 6 to 12 volt water pump
