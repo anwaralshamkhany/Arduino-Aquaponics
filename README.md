@@ -28,3 +28,5 @@ Begin by soldering jumper wires to the 9 volt dc adapter and connect it to the i
 
 # Tank Setup
 <img width="500" alt="Aquaponics graph" src="https://user-images.githubusercontent.com/81518926/134841350-da74a37e-68fc-4b62-8f13-e5f797e2802d.png">
+
+This is a basic diagram of what we want to create where the water is filtered through the roots of the plants and the plants convert the ammonia waste which is toxic to the fish to nitrates. We will need to create our own 
