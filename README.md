@@ -22,6 +22,7 @@ This is a homemade, backyard friendly project that completely automates an aquap
 * 2 Standard machine screws and bolts
 * 2 screws that already come packaged with the servo
 * 1 large clear plastic container (I reccomend 100L tub)
+* 25L of clay pebbles 
 
 # Instructions for setup
 Begin by soldering jumper wires to the 9 volt dc adapter and connect it to the input of the arduino motor shield. Plug in your servo directly to the servo pins at the top left which will be referrenced as pin 10 in the code. Then upload the arduino file called feeder_and_pump_code.ino to you arduino uno. Next you can attach the pump directly to the 9 volt pin and GND as we will need the pump to run constantly. Now that we have the arduino setup we can 3D print all the required files for the automatic fish feeder. I reccomend printing the Augur with at least a 15 percent density do that it does not snap when removing supports. The code in the arduino file can easily be adjusted by changing one number on the servo to dispense more food which will be neccessary as the fish are growing. Currently it is set to feed twice a day (every 12 hours) from the time that power is given to the arduino. Further docuementation for the STL files will be linked below as I am not the sole owner of them. Now that we have the electronic components of the project working we can begin the physical construction of the tank and grow bed. 
